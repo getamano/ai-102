@@ -1,0 +1,9 @@
+# Ignore log files
+*.log
+
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore appSettings.json
+appSettings.json

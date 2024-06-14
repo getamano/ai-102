@@ -7,3 +7,8 @@ obj/
 
 # Ignore appSettings.json
 appSettings.json
+
+
+
+.vscode/
+*.sln
